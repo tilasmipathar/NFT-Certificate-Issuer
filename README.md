@@ -1,4 +1,4 @@
-# Blockchain Based eCommerce Warranty System Using NFT
+# Blockchain Based Certificate Locker Using NFTs
 
 ## Technology Stack & Tools
 
