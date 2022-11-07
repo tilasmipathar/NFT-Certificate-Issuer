@@ -1,9 +1,9 @@
-# Blockchain Based Certificate Locker Using NFTs
+# Blockchain Based Digital Certificate Locker Using NFTs
 
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
-- Javascript (React & Testing)
+- Javascript (React)
 - [Ethers](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - [Hardhat](https://hardhat.org/) (Development Framework)
 - [Ipfs](https://ipfs.io/) (Metadata storage)
@@ -42,5 +42,5 @@ $ npx hardhat run src/backend/scripts/deploy.js --network matic
 ### 5. Launch Frontend
 `$ npm run start`
 
-
+### 6. Open Mainindex.html in /public Directory
 
