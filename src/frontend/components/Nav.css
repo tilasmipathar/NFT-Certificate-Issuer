@@ -1,0 +1,33 @@
+.navb{
+    background-color: #1b015c;
+    height: 2.14cm;
+    font-family: "Roboto", sans-serif;
+}
+
+.logo
+{
+    position: absolute;
+    left: .6cm;
+    font-weight: 600;
+    font-size: 0.57cm;
+    font-family: "Roboto", sans-serif;
+}
+
+.me-auto
+{
+    position: absolute;
+    left: 42.4%;
+    font-weight: 500;
+    
+}
+
+.a{
+    margin-right: 0.7cm;
+}
+
+.button
+{
+    position: absolute;
+    left: 81.85%;
+    top: 0.5cm;
+}

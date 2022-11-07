@@ -1,0 +1,15 @@
+.whatsapp {
+    /* background-color: blue; */
+    width: 100%;
+    font-family: inherit;
+    font-size: 16pt;
+    padding: 0.4em;
+    margin: 10px 0 20px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form.cbox{
+   width: 5cm;
+}

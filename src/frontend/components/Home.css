@@ -1,0 +1,20 @@
+body{
+    background-image: url("wall.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&display=swap');
+
+#head
+{
+    margin-top: 5%;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+
+.col6{
+    padding-top: 15%;
+}
